@@ -139,6 +139,7 @@ cython_debug/
 
 
 # mine
+jupyter
 /jupyter/**
 /private_data/**
 .DS_Store
