@@ -8,4 +8,4 @@ For instance, if many tickets have been sold, but not many of the larger prizes 
 
 So I created a program to email me the odds every day so I could buy tickets with an expected positive value.
 
-(I shut it down before ever seeing the odds tip in my favor))
+(I shut it down before ever seeing the odds tip in my favor)
