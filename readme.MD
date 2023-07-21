@@ -1,6 +1,6 @@
 # About
 
-I created this project as a fun way to see if I could beat the lotto odds. 
+I created this project as a fun way to see if I could beat the Illinois scratch-off lotto odds. 
 
 By law, the Illinois lotto has to publish how many scratch-off prizes have been claimed at each prize level. This allows you to see the current expected value of playing any given game. 
 
